@@ -67,7 +67,7 @@ Because this project bridges Python and Prolog using the `pyswip` library, you *
 
 **1. Clone the repository**
 \`\`\`bash
-git clone https://github.com/your-username/smart-hospital-management.git
+gh repo clone KethineniVenkataAvinash/Smart-Hospital-Management-System.git
 cd smart-hospital-management
 \`\`\`
 
