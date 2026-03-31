@@ -67,9 +67,10 @@ Because this project bridges Python and Prolog using the `pyswip` library, you *
 
 **1. Clone the repository**
 \`\`\`bash
-gh repo clone KethineniVenkataAvinash/Smart-Hospital-Management-System.git
+git clone [KethineniVenkataAvinash/Smart-Hospital-Management-System.git](https://github.com/KethineniVenkataAvinash/Smart-Hospital-Management-System.git)
+
 cd smart-hospital-management
-\`\`\`
+
 
 **2. Create a virtual environment (Recommended)**
 \`\`\`bash
